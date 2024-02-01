@@ -1,0 +1,14 @@
+/home/coder/project/c#/Auto/bin/Debug/net7.0/Auto
+/home/coder/project/c#/Auto/bin/Debug/net7.0/Auto.deps.json
+/home/coder/project/c#/Auto/bin/Debug/net7.0/Auto.runtimeconfig.json
+/home/coder/project/c#/Auto/bin/Debug/net7.0/Auto.dll
+/home/coder/project/c#/Auto/bin/Debug/net7.0/Auto.pdb
+/home/coder/project/c#/Auto/obj/Debug/net7.0/Auto.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/c#/Auto/obj/Debug/net7.0/Auto.AssemblyInfoInputs.cache
+/home/coder/project/c#/Auto/obj/Debug/net7.0/Auto.AssemblyInfo.cs
+/home/coder/project/c#/Auto/obj/Debug/net7.0/Auto.csproj.CoreCompileInputs.cache
+/home/coder/project/c#/Auto/obj/Debug/net7.0/Auto.dll
+/home/coder/project/c#/Auto/obj/Debug/net7.0/refint/Auto.dll
+/home/coder/project/c#/Auto/obj/Debug/net7.0/Auto.pdb
+/home/coder/project/c#/Auto/obj/Debug/net7.0/Auto.genruntimeconfig.cache
+/home/coder/project/c#/Auto/obj/Debug/net7.0/ref/Auto.dll
