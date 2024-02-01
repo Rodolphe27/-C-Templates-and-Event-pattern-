@@ -14,3 +14,6 @@ Ensure you have a C# compiler installed to run the program.
    ```bash
    git clone https://github.com/your-username/FuhrparkManagement.git
    cd FuhrparkManagement
+   csc Program.cs Autos.cs
+   Program.exe
+
